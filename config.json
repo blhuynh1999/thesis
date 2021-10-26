@@ -1,0 +1,19 @@
+{
+    "streams":
+        [
+            {
+                "streamType":"depth"
+            }
+        ],
+    "exchangeInfo":
+        {
+            "websocketUrl":"IDK",
+            "streams":
+                {
+                    "depth":
+                        {"format":""}
+                }
+        },
+    "coin":"btcusd",
+    "websocket":"IDK"
+}
